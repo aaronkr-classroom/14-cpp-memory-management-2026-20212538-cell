@@ -135,7 +135,9 @@
     <ClInclude Include="Core.h" />
     <ClInclude Include="Grad.h" />
     <ClInclude Include="grade.h" />
+    <ClInclude Include="Handle.h" />
     <ClInclude Include="median.h" />
+    <ClInclude Include="Ref_handle.h" />
     <ClInclude Include="Student_info.h" />
     <ClInclude Include="Vec.h" />
   </ItemGroup>
